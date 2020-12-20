@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mevsimler</string>
+
+    <string-array name="mevsimler">
+        <item>İlkbahar</item>
+        <item>Yaz</item>
+        <item>Sonbahar</item>
+        <item>Kış</item>
+    </string-array>
+</resources>
